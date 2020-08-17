@@ -2,5 +2,8 @@
     "template": [{
         "template": "front-template",
         "author": "yunfan-lee"
+    }, {
+        "template": "test-template",
+        "author": "yunfan-lee"
     }]
 }
